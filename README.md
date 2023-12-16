@@ -8,6 +8,7 @@
 * Praktikum 2 : Variabel, Tipe Data, Input dan Output `praktikum-b2.py`
 * Praktikum 3 : Operator `praktikum-b1.py`
 * Praktikum 4 : Rangkaian Karakter (String) 1 `praktikum-b1.py`
+* Tugas praktikum 4
 * Praktikum 5 : Rangkaian Karakter (String) 2 `praktikum-b1.py`
 * Praktikum 6 : List dan Tuples 1 `praktikum-b1.py`
 * Praktikum 7 : List dan Tuples 1 `praktikum-b1.py`
