@@ -12,9 +12,11 @@
 * Praktikum 5 : Rangkaian Karakter (String) 2 `praktikum-b5.py`
 * Praktikum 6 : List dan Tuples 1 `praktikum-b6.py`
 * Praktikum 7 : List dan Tuples 2 `praktikum-b7.py`
+* Praktikum 8 `praktikum-b8.py`
 * Perbaikan Ulangan Tengah Semester `231031041-Perbaikan UTS-SI23B`
 * Praktikum 9 : Dictionaries `231031041-baso rahmat hidayah. r-praktikum-b9.py`
 * Tugas praktikum 9 `231031041-baso rahmat hidayah. r-tugas-9`
+* Praktikum 10 `praktikum-b10.py`
 * Tugas praktikum 10 `231031041-baso rahmat hidayah. r-tugas1-10-b`
 * Tugas praktikum 10 `231031041-baso rahmat hidayah. r-tugas21-10-b`
 * Tugas praktikum 10 `231031041-baso rahmat hidayah. r-tugas22-10-b`
