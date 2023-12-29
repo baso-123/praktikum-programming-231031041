@@ -22,7 +22,7 @@
 * Tugas praktikum 10 : Menghitung Selisih Waktu `231031041-baso rahmat hidayah. r-tugas22-10-b`
 * Praktikum 11 : Fungsi Rekursif Fibonacci `231031041-baso rahmat hidayah. r-praktikum-b11.py`
 * Tugas praktikum 11 : Gambar Flowchart `231031041-baso rahmat hidayah. r-SI23-B-TUGAS 11`
-* Tugas praktikum 12 : Rangkuman `231031041-baso rahmat hidayah. r-rangkuman12b`
+* Tugas praktikum 12 : Rangkuman Text File dan Exception `231031041-baso rahmat hidayah. r-rangkuman12b`
 * Tugas praktikum 13 : If dan Else `231031041-baso rahmat hidayah. r-latihan1`
 * Tugas praktikum 13 : If dan Else `231031041-baso rahmat hidayah. r-latihan2`
 * Tugas praktikum 13 : If dan Else `231031041-baso rahmat hidayah. r-latihan3`
