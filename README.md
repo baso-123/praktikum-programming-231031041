@@ -19,7 +19,7 @@
 * Praktikum 10 : Fungsi `praktikum-b10.py`
 * Tugas praktikum 10 : Cek Angka Ganjil atau Genap`231031041-baso rahmat hidayah. r-tugas1-10-b`
 * Tugas praktikum 10 : Penjumlahan `231031041-baso rahmat hidayah. r-tugas21-10-b`
-* Tugas praktikum 10 : Menghitung selisih waktu `231031041-baso rahmat hidayah. r-tugas22-10-b`
+* Tugas praktikum 10 : Menghitung Selisih Waktu `231031041-baso rahmat hidayah. r-tugas22-10-b`
 * Praktikum 11 : Fungsi Rekursif Fibonacci `231031041-baso rahmat hidayah. r-praktikum-b11.py`
 * Tugas praktikum 11 : Gambar Flowchart `231031041-baso rahmat hidayah. r-SI23-B-TUGAS 11`
 * Tugas praktikum 12 : Rangkuman `231031041-baso rahmat hidayah. r-rangkuman12b`
